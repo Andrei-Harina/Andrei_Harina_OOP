@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ScreenTimeTracker
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=e
+comment10.target=void\ viewUsageLog(java.awt.event.ActionEvent)
+comment11.params=e
+comment11.target=void\ resetLog(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ createUI()
+comment3.params=e
+comment3.target=void\ startTracking(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ stopTracking(java.awt.event.ActionEvent)
+comment5.params=duration
+comment5.target=java.lang.String\ formatDuration(long)
+comment6.params=
+comment6.target=java.lang.String\ calculateTotalUsage()
+comment7.params=
+comment7.target=void\ checkDailyLimit()
+comment8.params=
+comment8.target=void\ updateTimer()
+comment9.params=e
+comment9.target=void\ exportUsageLog(java.awt.event.ActionEvent)
+numComments=12
